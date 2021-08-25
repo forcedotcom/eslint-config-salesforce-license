@@ -25,5 +25,8 @@
   },
   "publishConfig": {
     "access": "public"
+  },
+  "scripts": {
+    "build": "echo 'no build necessary'"
   }
 }
