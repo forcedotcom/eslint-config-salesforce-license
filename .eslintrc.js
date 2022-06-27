@@ -8,7 +8,7 @@ module.exports = {
         '',
         {
           pattern: ' \\* Copyright \\(c\\) \\d{4}, salesforce\\.com, inc\\.',
-          template: ' * Copyright (c) 2020, salesforce.com, inc.',
+          template: ' * Copyright (c) 2022, salesforce.com, inc.',
         },
         ' * All rights reserved.',
         ' * Licensed under the BSD 3-Clause license.',
