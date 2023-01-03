@@ -25,5 +25,6 @@
   },
   "scripts": {
     "build": "echo 'no build necessary'"
+    "test": "echo 'no tests necessary'"
   }
 }
