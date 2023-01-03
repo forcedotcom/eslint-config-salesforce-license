@@ -1,35 +1,15 @@
-# Change Log
-
-All notable changes to this project will be documented in this file.
-See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
-
-## [0.1.6](https://github.com/forcedotcom/sfdx-dev-packages/compare/eslint-config-salesforce-license@0.1.4...eslint-config-salesforce-license@0.1.6) (2021-05-12)
-
-**Note:** Version bump only for package eslint-config-salesforce-license
+# 0.2.0 (2023-01-03)
 
 
+### Bug Fixes
 
-
-
-## [0.1.4](https://github.com/forcedotcom/sfdx-dev-packages/compare/eslint-config-salesforce-license@0.1.2...eslint-config-salesforce-license@0.1.4) (2021-05-11)
-
-**Note:** Version bump only for package eslint-config-salesforce-license
-
-
-
-
-
-## [0.1.2](https://github.com/forcedotcom/sfdx-dev-packages/compare/eslint-config-salesforce-license@0.1.0...eslint-config-salesforce-license@0.1.2) (2021-05-11)
-
-**Note:** Version bump only for package eslint-config-salesforce-license
-
-
-
-
-
-# 0.1.0 (2020-07-21)
+* update the license for 2023 ([8213aed](https://github.com/forcedotcom/eslint-config-salesforce-license/commit/8213aed4dec558c5ed1cff15e769b6bd56aac7a4))
 
 
 ### Features
 
-* add salesforce license linting ([3213135](https://github.com/forcedotcom/sfdx-dev-packages/commit/3213135f34956335ef2c123ec680c2de2bc7f10f))
+* add PR Slack action ([7740540](https://github.com/forcedotcom/eslint-config-salesforce-license/commit/7740540c54edbb586d752f9a084ad80d351f73c6))
+* set up CircleCI ([d658b81](https://github.com/forcedotcom/eslint-config-salesforce-license/commit/d658b818cc7fd622d3572fcd016e380b353652c6))
+
+
+
