@@ -1,4 +1,13 @@
-# 0.2.0 (2023-01-03)
+## [1.0.1](https://github.com/forcedotcom/eslint-config-salesforce-license/compare/0.2.0...1.0.1) (2025-04-10)
+
+
+### Bug Fixes
+
+* major bump failed ([8081f6b](https://github.com/forcedotcom/eslint-config-salesforce-license/commit/8081f6bd6f03e99e3c70590998709af90b75249f))
+
+
+
+# [0.2.0](https://github.com/forcedotcom/eslint-config-salesforce-license/compare/d658b818cc7fd622d3572fcd016e380b353652c6...0.2.0) (2023-01-03)
 
 
 ### Bug Fixes
