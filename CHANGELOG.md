@@ -1,3 +1,12 @@
+## [1.0.2](https://github.com/forcedotcom/eslint-config-salesforce-license/compare/1.0.1...1.0.2) (2025-08-28)
+
+
+### Bug Fixes
+
+* oss templates ([2b089a6](https://github.com/forcedotcom/eslint-config-salesforce-license/commit/2b089a6b2a2667720a104024338ae4cfdf864d4d))
+
+
+
 ## [1.0.1](https://github.com/forcedotcom/eslint-config-salesforce-license/compare/0.2.0...1.0.1) (2025-04-10)
 
 
